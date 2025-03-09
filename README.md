@@ -19,7 +19,7 @@ $ env.yml
 The relevant files are kept in './raw_data'
 
 ### GNN model
-The relevant files and code for the descriptor model are in './QSPR/GNN/'
+The relevant files and code for the GNN models are in './QSPR/GNN/'
 
 A command line for training a AFP model and tuning the splitting seed:
 ```commandline
@@ -72,7 +72,7 @@ $ python Ensembling.py
 ```
 
 ### polyBERT model
-The relevant files and code for the descriptor model are in './QSPR/polyBERT'
+The relevant files and code for the polyBERT model are in './QSPR/polyBERT'
 #### Before running, download polyBERT model on https://huggingface.co/kuelumbus/polyBERT
 To carry out a single-objective bayesian optimization on a polyBERT model, do:
 ```commandline
