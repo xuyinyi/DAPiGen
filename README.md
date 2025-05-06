@@ -1,8 +1,8 @@
-# De novo Design of Polyimides Leveraging Deep Reinforcement Learning Agent
+# *De novo* Design of Polyimides Leveraging Deep Reinforcement Learning Agent
 ***
 
 
-DAPiGen: De novo Design of Polyimides Leveraging Deep Reinforcement Learning Agent
+DAPiGen: *De novo* Design of Polyimides Leveraging Deep Reinforcement Learning Agent
 - https://xxxxxx.xxx
 
 ## Background
